@@ -27,7 +27,7 @@ urls = [
 ]
 
 # Defining the path to the folder where we are storing the .csv files
-destination_folder = r'C:\code_personal_use\cms\data\ip'
+destination_folder = ('/Users/jcarhart/Desktop/code-cane/cms/data/ip')
 
 
 # Create the destination folder if it does not exist

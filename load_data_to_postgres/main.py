@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 db_params = {
     'dbname': 'cms',
     'user': 'postgres',
-    'password': 'Pebtf#1#GriffClem',  # Replace with your actual RDS password
+    'password': 'password',  # Replace with your actual RDS password
     'host': 'postgres-db-dev.c7sosyk2g2tx.us-east-1.rds.amazonaws.com',
     'port': '5432'
 }
